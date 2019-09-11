@@ -1,0 +1,33 @@
+#content{
+	text-align: center;
+	padding-top:21%;
+	text-shadow:2px 4px 20px #8e318feb;
+}
+html{
+	height:100%;
+}
+body{
+	background:url(https://images.unsplash.com/photo-1523289770562-0f17b2aabdd8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=332&q=80);
+	background-size: cover;
+	background-position: center;
+	font-family: 'Ubuntu', sans-serif;
+		color:rgba(255,255,255,0.93);
+
+
+} 
+h1{
+   font-weight: 700;
+   font-size: 5em;
+}
+hr{
+	width:400px;
+	border-top:1px #f8f8f8 solid;
+	border-bottom: 1px rgba(0,0,0,0.2) solid
+}
+.navbar-inverse{
+	background-color: #cc00ff1f;
+}
+
+a {
+    background-color: #7628909e;
+}
