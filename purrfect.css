@@ -31,3 +31,7 @@ hr{
 a {
     background-color: #7628909e;
 }
+.btn-default {
+	color: #7c4d92;
+	border-color: #7c4d92;
+}
